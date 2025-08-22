@@ -61,12 +61,12 @@ CAR:NAME,MIDEL,COLOR
 PRINTS THE CAR NAME
 */
 
-let car ={
-    name: "TAta Nexon",
-    model: "2020",
-    color: "white"
-}
-console.log(`Car's Name is: ${car.name}`);
+// let car ={
+//     name: "TAta Nexon",
+//     model: "2020",
+//     color: "white"
+// }
+// console.log(`Car's Name is: ${car.name}`);
 
 
 
@@ -75,11 +75,11 @@ EDIT THEIR CITY'S ORIGINAL VALUE TO CHANGE IT TO "NEW YORK"
 ADD  A NEW PROPERTY COUNTRY AND SET IT TO "UNITED STATES"
 */
 
-let person = {
-    name: "Nitesh kumar",
-    age: 23,
-    city: "New Delhi"
-}
-person.city = "New York";
-person.country ="United States";
-console.log(person);
+// let person = {
+//     name: "Nitesh kumar",
+//     age: 23,
+//     city: "New Delhi"
+// }
+// person.city = "New York";
+// person.country ="United States";
+// console.log(person);
